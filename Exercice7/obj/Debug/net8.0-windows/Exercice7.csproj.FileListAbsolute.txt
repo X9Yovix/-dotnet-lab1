@@ -1,0 +1,17 @@
+C:\TEKUP\S2\.NET\TP\TP1\Exercice7\bin\Debug\net8.0-windows\Exercice7.exe
+C:\TEKUP\S2\.NET\TP\TP1\Exercice7\bin\Debug\net8.0-windows\Exercice7.deps.json
+C:\TEKUP\S2\.NET\TP\TP1\Exercice7\bin\Debug\net8.0-windows\Exercice7.runtimeconfig.json
+C:\TEKUP\S2\.NET\TP\TP1\Exercice7\bin\Debug\net8.0-windows\Exercice7.dll
+C:\TEKUP\S2\.NET\TP\TP1\Exercice7\bin\Debug\net8.0-windows\Exercice7.pdb
+C:\TEKUP\S2\.NET\TP\TP1\Exercice7\obj\Debug\net8.0-windows\Exercice7.Form1.resources
+C:\TEKUP\S2\.NET\TP\TP1\Exercice7\obj\Debug\net8.0-windows\Exercice7.Properties.Resources.resources
+C:\TEKUP\S2\.NET\TP\TP1\Exercice7\obj\Debug\net8.0-windows\Exercice7.csproj.GenerateResource.cache
+C:\TEKUP\S2\.NET\TP\TP1\Exercice7\obj\Debug\net8.0-windows\Exercice7.GeneratedMSBuildEditorConfig.editorconfig
+C:\TEKUP\S2\.NET\TP\TP1\Exercice7\obj\Debug\net8.0-windows\Exercice7.AssemblyInfoInputs.cache
+C:\TEKUP\S2\.NET\TP\TP1\Exercice7\obj\Debug\net8.0-windows\Exercice7.AssemblyInfo.cs
+C:\TEKUP\S2\.NET\TP\TP1\Exercice7\obj\Debug\net8.0-windows\Exercice7.csproj.CoreCompileInputs.cache
+C:\TEKUP\S2\.NET\TP\TP1\Exercice7\obj\Debug\net8.0-windows\Exercice7.dll
+C:\TEKUP\S2\.NET\TP\TP1\Exercice7\obj\Debug\net8.0-windows\refint\Exercice7.dll
+C:\TEKUP\S2\.NET\TP\TP1\Exercice7\obj\Debug\net8.0-windows\Exercice7.pdb
+C:\TEKUP\S2\.NET\TP\TP1\Exercice7\obj\Debug\net8.0-windows\Exercice7.genruntimeconfig.cache
+C:\TEKUP\S2\.NET\TP\TP1\Exercice7\obj\Debug\net8.0-windows\ref\Exercice7.dll
